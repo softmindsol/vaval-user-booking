@@ -131,7 +131,7 @@ const Form = () => {
     },
     {
       id: "service",
-      label: "Services",
+      label: "Treatment",
       type: "select",
       name: "service",
       options: selectedBarber?.skills || [],
